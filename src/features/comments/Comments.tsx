@@ -17,7 +17,7 @@ function Comments({
     page,
     setPage,
     countComments,
-    countLikes,
+    countLikes, //дописать общий счетчик всех лайков
 }: {
     page: number;
     setPage: (page: number) => void;
