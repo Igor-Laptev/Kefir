@@ -1,0 +1,28 @@
+#root {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(30, 52, 84, 0.703);
+    /* background-image: url('/public/upraveny_Forest.jpg');
+    background-size: cover; 
+    background-position: center; */
+}
+
+.like {
+    padding-top: 10px;
+    margin-left: auto;
+    color: aliceblue;
+}
+
+.text {
+    margin-left: 60px;
+    color: aliceblue;
+}
+.button {
+    margin: 30px;
+    width: 160px;
+    height: 30px;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.458);
+    cursor: pointer;
+    margin-left: 30%;
+}
