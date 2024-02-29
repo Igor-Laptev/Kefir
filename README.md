@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Тестовое задание
 
 1. Репозиторий не форкать
@@ -24,4 +28,3 @@
 ### Figma [Comments.fig](Comments.fig)
 
 ![preview.png](preview.png)
-Посмотреть стартовый файл приложения: [index.tsx](src/index.tsx)
