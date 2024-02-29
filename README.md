@@ -24,4 +24,4 @@
 ### Figma [Comments.fig](Comments.fig)
 
 ![preview.png](preview.png)
-Посмотреть стартовый файл приложения: [index.tsx](src/index.tsx)
+
